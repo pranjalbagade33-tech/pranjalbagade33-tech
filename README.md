@@ -63,8 +63,8 @@ src="https://streak-stats.demolab.com?user=pranjalbagade33-tech&theme=tokyonight
 
 <p align="left">
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedi"/>
+<a href="https://www.linkedin.com/in/pranjal-bagade-1168072a6">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:pranjalbagade33@gmail.com">
